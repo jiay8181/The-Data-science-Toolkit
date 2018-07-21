@@ -19,7 +19,7 @@
    to open jupyter
 8.Jupyter notebook uses token to authenticate requests.
 
-9.
+9.![](diagram.pptx)
 
 10. Using t2.micro, t2.small, t2.medium with memory of 1GB,2GB,4GB to run Jupyter Data Science Notebook
     for three months will cost $25.5,$50.52,$101.91 each. Totall $177.93.
